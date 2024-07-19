@@ -1,6 +1,6 @@
  **TODO APP**
 
- This is a project that contains a somple todo application.
+ This is a project that contains a simple todo application.
  It has the following features:
  
 - Anyone can create a todo.
